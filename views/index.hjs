@@ -3,8 +3,10 @@
   <head>
     <title>{{ title }}</title>
     <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link rel="icon" type="image/png" href="images/favicon-64.png"/>
   </head>
   <body>
+    <img src="images/favicon-64.png" class="favicon"/>
     <h1>{{ title }}</h1>
     <p>Welcome to {{ title }}</p>
   </body>
