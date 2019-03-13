@@ -12,3 +12,7 @@ a {
   float: left;
   margin-right: 10px;
 }
+
+.desc {
+  white-space: pre-wrap;
+}
