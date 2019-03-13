@@ -7,7 +7,7 @@
   $cd node-app
   $ npm install
 
-3 ) Executer et déployer sur heroku :
+3) Executer et déployer sur heroku :
   $ heroku login
   $ heroku create
   $ git push heroku master
